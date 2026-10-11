@@ -23,7 +23,13 @@ Product Manager with 5 years in B2B enterprise SaaS, fintech and AI. I build AI 
 | [MerchantPulse](https://merchant-pulse-phonepe.lovable.app) | Merchant insights product concept for PhonePe |
 
 ## Experience Snapshot
-Congruent Solutions, Associate Product Manager. Previously IBM, Amdocs and Infosys.
+
+**Congruent Solutions, Associate Product Manager.** I own AI and B2B product delivery for US clients. I cut story creation time by 60% with a Copilot Studio agent, scaled a marketplace portal to 5,000+ MAU with a 45% adoption lift, and won Spot Awards in 2025 and 2026.
+
+Previously at IBM, Amdocs and Infosys.
+
+## Featured Case Studies
+- [Remote Expert Assessment Console](https://github.com/hassan-a1998/EXPERT-CONSOLE-APP): claims review tool built to protect margins
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/hassan-ahmad-96749b15b)
